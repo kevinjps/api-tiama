@@ -40,12 +40,12 @@ DB_PASSWORD = 'root'
 
 # Aqui você pode definir pra qual tabela vai os dados de cada linha
 TABELA_POR_LINHA = {
-    591: 'IQSCANVR1',
-    592: 'IQSCANVR1',
-    593: 'IQSCANVR1',
-    594: 'IQSCANVR2',
-    595: 'IQSCANVR2',
-    596: 'IQSCANVR2',
+    591: 'IQSCAN591',
+    592: 'IQSCAN592',
+    593: 'IQSCAN593',
+    594: 'IQSCAN594',
+    595: 'IQSCAN595',
+    596: 'IQSCAN596',
 }
 
 # ─────────────────────────────────────────────────────────────────────────────
